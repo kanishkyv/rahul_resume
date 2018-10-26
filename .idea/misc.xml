@@ -17,6 +17,7 @@
       </value>
     </option>
     <option name="myNotNulls">
+      //"hello baby"
       <value>
         <list size="6">
           <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
